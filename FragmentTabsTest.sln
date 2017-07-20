@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FragmentTabsTest", "FragmentTabsTest\FragmentTabsTest.csproj", "{7738365A-FF58-466A-862E-343B8EAA786F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FragmentTabsTest.Core", "FragmentTabsTest.Core\FragmentTabsTest.Core.csproj", "{921A1854-CA23-4742-8510-1391DB561865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7738365A-FF58-466A-862E-343B8EAA786F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7738365A-FF58-466A-862E-343B8EAA786F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7738365A-FF58-466A-862E-343B8EAA786F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7738365A-FF58-466A-862E-343B8EAA786F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921A1854-CA23-4742-8510-1391DB561865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921A1854-CA23-4742-8510-1391DB561865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921A1854-CA23-4742-8510-1391DB561865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921A1854-CA23-4742-8510-1391DB561865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+*/bin/**
+*/obj/**
+
+Components/
+packages/
+
+.vs/
+
+*.userprefs
+*.user

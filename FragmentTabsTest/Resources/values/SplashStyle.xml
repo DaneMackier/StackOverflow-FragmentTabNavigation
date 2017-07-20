@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="Theme.Splash" parent="android:Theme">
+    <item name="android:windowBackground">@drawable/splash</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+
+	 <style name="SampleTabsTabLayout" parent="Widget.Design.TabLayout">
+    <item name="android:layout_width">match_parent</item>
+    <item name="tabIndicatorColor">@android:color/white</item>
+    <item name="tabSelectedTextColor">@android:color/white</item>
+    <item name="tabTextColor">#50ffffff</item>
+  </style>
+</resources>
