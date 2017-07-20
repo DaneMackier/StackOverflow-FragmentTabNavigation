@@ -42,7 +42,8 @@ namespace FragmentTabsTest.Views
 
       var fragments = GetTabFragments();
       var presenter = Mvx.Resolve<IMvxAndroidViewPresenter>() as AndroidViewPresenter;
-      var adapter = new SimpleSearchTabAdapter(Context, presenter.FragmentManager, fragments);
+
+      var adapter = new SimpleSearchTabAdapter(Context, ChildFragmentManager, fragments);
       fragmentPager.Adapter = adapter;
 
       tabLayout.SetupWithViewPager(fragmentPager);

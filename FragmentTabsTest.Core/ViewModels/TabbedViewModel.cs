@@ -40,6 +40,5 @@ namespace FragmentTabsTest.Core.ViewModels
     {
       ShowViewModel<OtherViewModel>();
     }
-
   }
 }
